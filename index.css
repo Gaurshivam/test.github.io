@@ -1,0 +1,189 @@
+.body1{
+    background-color: rgb(81, 195, 248);
+    height: 720px;
+    width: 550px;
+    margin: auto;
+    text-align: center;
+    margin: auto;
+}
+.div1{
+    background-color: rgb(178, 248, 178);
+    margin:auto;
+    margin-top: 4px;
+    width:400px ;
+    height: 20px;
+    text-align:center;
+    padding: 4px;
+    margin-left: 10%;
+}
+.div2{
+    background-color: yellow;
+    height: 20px;
+    width: 250px;
+    margin: 4px;
+    text-align: center;
+    padding: 7px;
+    margin-left: 21%;
+}
+.div3{
+    padding-top: 6px;
+    background-color: yellow;
+    height: 25px;
+    width: 400px;
+    text-align: center;
+    margin: 4px;
+    margin-left: 10%;
+}
+.body2{
+    background-color: rgb(241, 216, 192);
+    height: 580px;
+    width: 520px;
+    margin: auto;
+    border: solid 1px black;
+
+}
+.div2body{
+    background-color: yellow;
+    height: 20px;
+    width: 120px;
+    margin: auto;
+    text-align: center;
+    border: solid 1px black;
+}
+.body3{
+    background-color: rgb(71, 248, 71);
+    height: 520px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    margin: 2px 3px 2px 4px;
+    border: solid 1px black;
+}
+.wrapper{
+    background-color: yellow;
+    height: 40px;
+    width: 290px;
+    margin: auto;
+    text-align: center;
+    border: solid 1px black;
+}
+.container1{
+    background-color: yellow;
+    height: 40px;
+    width: 290px;
+    text-align: center;
+    margin: auto;
+    border: solid 1px black;
+}
+.header{
+    background-color: rgb(247, 247, 100);
+    width: 330px;
+    height: 50px;
+    margin: auto;
+    border: solid 1px black;
+}
+.header1{
+    background-color: yellow;
+    width: 180px;
+    height: 30px;
+    text-align: center;
+    margin-top: 50%;
+    margin-right: 6%;
+    border: solid 1px black;
+    margin: auto;
+}
+
+.body4{
+    background-color: rgb(241, 216, 192);
+    height: 440px;
+    width: 480px;
+    margin: auto;
+    border: solid 1px black;
+}
+.nav{
+    background-color: rgb(236, 169, 191);
+    width: 380px;
+    height: 80px; 
+    margin: auto;
+    border: solid 1px black;
+}
+.navigation{
+    background-color: yellow;
+    height: 30px;
+    width: 190px;
+    border: solid 1px black;
+    text-align: center;
+    margin: auto;
+}
+.cover1{
+    background-color: aqua;
+    height: 160px;
+    width: 440px;
+    margin: auto;
+}
+.content{
+    background-color: rgb(240, 240, 9);
+    height: 120px;
+    width: 390px;
+    margin: auto;
+    border: solid 1px black;
+    margin-top: 10%;
+}
+.content1 {
+    float: left;
+    background-color: aliceblue;
+    height: 10px;
+    text-align: center;
+    padding: 25px;
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 130px;
+    border: solid 1px black;
+}
+.content2 {
+    float: right;
+    background-color: aliceblue;
+    height: 10px;
+    width: 130px;
+    text-align: center;
+    padding: 25px;
+    margin-top: 2%;
+    margin-right: 2%;
+    border: solid 1px black;
+}    
+
+.headfoot{
+    background-color: aliceblue;
+    width: 380px;
+    height: 40px;
+    border: solid 1px black;
+    margin: auto;
+}
+.footer{
+    background-color: yellow;
+    height: 20px;
+    width: 168px;
+    border: solid 1px black;
+    margin: auto;
+}
+.rohit{
+    background-color: yellow;
+    width: 180px;
+    height: 30px; 
+    margin: auto;
+    border: solid 1px black;
+}
+.virat1{
+    float: left;
+    background-color: yellow;
+    height: 20px;
+    width: 180px;
+    border: solid 1px black;
+}
+.virat2{
+    float: right;
+    background-color: yellow;
+    height: 20px;
+    width: 180px;
+    border: solid 1px black;
+}
